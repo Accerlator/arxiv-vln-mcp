@@ -161,7 +161,7 @@ class ArxivAPIError(Exception):
 
 ```bash
 # 1. 克隆仓库
-git clone <你的仓库地址>
+git clone https://github.com/Accerlator/arxiv-vln-mcp.git
 cd arxiv-vln-mcp
 
 # 2. 创建虚拟环境（可选但推荐）
